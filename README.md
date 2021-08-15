@@ -2,7 +2,7 @@
 
 ## R Packages
 
-### [`fancycut`]()
+### [`fancycut`](https://github.com/adamleerich/fancycut)
 
 My package on [CRAN](https://cran.r-project.org/web/packages/fancycut/index.html).
 Despite the name, it is nothing fancy.

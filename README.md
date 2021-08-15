@@ -32,7 +32,7 @@ Snatch-and-grab of [cran/alr3](https://github.com/cran/alr3) at commit `aa1f43f9
 This appears to the last commit before the author's started deprecating parts of the package.
 `alr3` is an old R package that is no longer on CRAN.
 It is a companion to the textbook by S. Weisberg _Applied Linear Regression, 3rd edition_.
-I'm keeping this copy because sometimes I texts or tutorials that refer to it.
+I'm keeping this copy because sometimes I see texts or tutorials that refer to it.
 If you need the package, you can download this and build it locally.
 
 

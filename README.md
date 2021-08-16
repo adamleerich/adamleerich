@@ -84,8 +84,8 @@ but for the stuff that I am constantly looking up.
 ### [`chessobscura.com`](https://github.com/adamleerich/chessobscura.com)
 
 HFS this is going to be awesome.
-To quote Ruth, "I don't know **** about ****" when it come to chess,
-but why not write *the* definitive website on the topic?
+To quote Ruth, ["I don't know **** about ****"](https://memegenerator.net/img/instances/84712520/i-dont-know-shit-about-fuck.jpg)
+when it come to chess, but why not write *the* definitive website on the topic?
 
 
 

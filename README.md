@@ -90,8 +90,11 @@ when it come to chess, but why not write *the* definitive website on the topic?
 
 
 Inspired in part by [this post on Instagram](https://www.instagram.com/p/CSpVnjtJhD2/?utm_source=ig_web_copy_link)
-![](www_instagram_com_p_CSpVnjtJhD2_.png)
 
+<img src="www_instagram_com_p_CSpVnjtJhD2_.png"
+     alt="https://www.instagram.com/p/CSpVnjtJhD2/?utm_source=ig_web_copy_link"
+     title="A snarky remark about how hard it is to learn chess"
+     width="300" height="300" />
 
 
 

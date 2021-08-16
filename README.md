@@ -53,7 +53,7 @@ There isn't anything here that you can use out-of-the-box.
 
 
 
-## Other Work-in-Progress
+## IPO eminent
 
 ### [`bushes-of-love`](https://github.com/adamleerich/bushes-of-love)
 This repo is private for now, but I am really excited about the idea.
@@ -78,6 +78,14 @@ I've got bad eyesight and colorblindness, so ear birding is appealing.
 I love Rene Nyffenegger's [notes](https://renenyffenegger.ch/notes/index.html) part of his webpage
 and I want to do something similar,
 but for the stuff that I am constantly looking up.
+
+
+
+### [`chessobscura.com`](https://github.com/adamleerich/chessobscura.com)
+
+HFS this is going to be awesome.
+To quote Ruth, "I don't know **** about ****" when it come to chess,
+but why not write *the* definitive website on the topic?
 
 
 
